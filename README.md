@@ -1,4 +1,4 @@
-# claude-finance
+# Claude Finance
 
 基于 Claude Code 的投资分析工作区。
 
