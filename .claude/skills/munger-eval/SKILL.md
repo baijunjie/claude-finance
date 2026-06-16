@@ -81,7 +81,7 @@ description: 基于查理·芒格投资理论评估一家公司——四层过�
 
 ### 第 7 步：输出评分卡 + 投资备忘录
 
-按 [assets/memo-template.md](assets/memo-template.md) 模板生成备忘录，保存到当前工作目录 `output/munger-eval-<公司名>-<日期>.md`。
+按 [assets/memo-template.md](assets/memo-template.md) 模板生成备忘录，保存到当前工作目录 `output/munger-eval/<公司名>-<日期>.md`（目录不存在时先创建）。
 
 **判定标识（全文统一使用，提高辨识度）：**
 
